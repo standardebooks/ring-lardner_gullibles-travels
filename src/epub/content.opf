@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner/gullibles-travels</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-04T00:10:35Z</dc:date>
+		<meta property="dcterms:modified">2026-05-04T00:10:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -59,17 +59,17 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">An exasperated Chicago husband and his status-hungry wife attempt to climb the social ladder in six comic misadventures.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in &lt;i&gt;The Saturday Evening Post&lt;/i&gt; between 1916 and 1917, the stories which make up &lt;i&gt;Gullible’s Travels&lt;/i&gt; follow the comical misadventures of a long-suffering husband and his aspiring socialite wife. The unnamed protagonists and their hapless attempts to climb the social ladder serve as a canvas for &lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; to satirize marriage, social dynamics, and the newly emerging middle class of the late 1910s.&lt;/p&gt;
-			&lt;p&gt;In 1917, the first five stories about the unnamed Gullible narrator and his “Missus” were compiled in book form as &lt;i&gt;Gullible’s Travels, &lt;abbr&gt;Etc.&lt;/abbr&gt;&lt;/i&gt; The Standard Ebooks edition also includes a later sixth story, “A Friendly Game,” which didn’t make it to print until after the contents of the book were finalized. Each story shares a common “fish out of water” theme wherein the narrator and his wife find themselves in social situations in which they are clearly out of their element, including grand operas, Palm Beach resorts, and bridge clubs. The stories also explore timeless, familiar struggles of domestic life such as squabbling over the in-laws and introducing new acquaintances into established social circles.&lt;/p&gt;
-			&lt;p&gt;Unlike much of Lardner’s writing, the subject matter of these stories is relatable to nearly all kinds of readers. This fact, coupled with the more approachable writing style compared to some of his more epistolary works like the &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;Jack Keefe Stories&lt;/a&gt;&lt;/i&gt; led these stories to be well-regarded among Lardner’s work, gaining enough popularity at the time of publication to receive a second, updated printing in their book form in 1925 and eventually a paperback edition in the 1960s, though with the sixth story still excluded.&lt;/p&gt;
+			&lt;p&gt;Published in &lt;i&gt;The Saturday Evening Post&lt;/i&gt; between 1916 and 1917, the stories that make up &lt;i&gt;Gullible’s Travels&lt;/i&gt; follow the comical misadventures of a long-suffering husband and his aspiring socialite wife. The unnamed protagonists and their hapless attempts to climb the social ladder serve as a canvas for &lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; to satirize marriage, social dynamics, and the newly emerging middle class of the late 1910s.&lt;/p&gt;
+			&lt;p&gt;In 1917, the first five stories about the unnamed narrator and his “Missus” were compiled in book form as &lt;i&gt;Gullible’s Travels, Etc.&lt;/i&gt; This Standard Ebooks edition also includes a later sixth story, “A Friendly Game,” which didn’t make it to print until after the contents of that book were finalized. Each story shares a common “fish out of water” theme wherein the narrator and his wife find themselves in social situations in which they’re clearly out of their element, including grand operas, Palm Beach resorts, and bridge clubs. The stories also explore timeless, familiar struggles of domestic life, like squabbling over the in-laws and introducing new acquaintances into established social circles.&lt;/p&gt;
+			&lt;p&gt;Unlike much of Lardner’s writing, the subject matter of these stories is much more generally relatable. This, coupled with the more approachable writing style compared to some of his more epistolary works like the &lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;Jack Keefe stories&lt;/a&gt;, led these stories to be well-regarded. They gained enough popularity for a second printing in 1925 and eventually a paperback edition in the 1960s—though these subsequent editions still lacked the sixth story.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35162</dc:source>
 		<dc:source>https://archive.org/details/bwb_P8-ALV-636</dc:source>
 		<!-- A Friendly Game, page 10 -->
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1917-05-05_189_45</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">50655</meta>
+		<meta property="se:reading-ease.flesch">91.82</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gullible%27s_Travels</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_gullibles-travels</meta>
@@ -104,6 +104,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
