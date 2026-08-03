@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="content.opf">
 		<ignore code="m-064">
-			<line>64</line>
+			<line>65</line>
 			<reason>Text is not the title of an ebook.</reason>
 		</ignore>
 	</file>
