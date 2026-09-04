@@ -31,12 +31,12 @@
 		<dc:title id="title">Gullible’s Travels</dc:title>
 		<meta property="file-as" refines="#title">Gullible’s Travels</meta>
 		<dc:subject id="subject-1">Humorous stories, American</dc:subject>
-		<dc:subject id="subject-2">Courtship -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Chicago (Ill.) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Opera -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Courtship--Fiction</dc:subject>
+		<dc:subject id="subject-3">Chicago (Ill.)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Opera--Fiction</dc:subject>
 		<dc:subject id="subject-5">Bridge players</dc:subject>
 		<dc:subject id="subject-6">Voyages and travels</dc:subject>
-		<dc:subject id="subject-7">Husband and wife -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Husband and wife--Fiction</dc:subject>
 		<dc:subject id="subject-8">Sisters-in-law</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062976</meta>
